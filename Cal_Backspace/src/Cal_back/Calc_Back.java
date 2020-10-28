@@ -134,7 +134,6 @@ public class Calc_Back extends javax.swing.JFrame {
 
         jbtn9.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jbtn9.setText("4");
-        jbtn9.setActionCommand("4");
         jbtn9.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jbtn9ActionPerformed(evt);
@@ -151,7 +150,6 @@ public class Calc_Back extends javax.swing.JFrame {
 
         jbtn11.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jbtn11.setText("6");
-        jbtn11.setActionCommand("6");
         jbtn11.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jbtn11ActionPerformed(evt);
@@ -168,7 +166,6 @@ public class Calc_Back extends javax.swing.JFrame {
 
         jbtn13.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jbtn13.setText("1");
-        jbtn13.setActionCommand("1");
         jbtn13.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jbtn13ActionPerformed(evt);
@@ -177,7 +174,6 @@ public class Calc_Back extends javax.swing.JFrame {
 
         jbtn14.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jbtn14.setText("2");
-        jbtn14.setActionCommand("2");
         jbtn14.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jbtn14ActionPerformed(evt);
@@ -186,7 +182,6 @@ public class Calc_Back extends javax.swing.JFrame {
 
         jbtn15.setFont(new java.awt.Font("Arial Black", 1, 12)); // NOI18N
         jbtn15.setText("3");
-        jbtn15.setActionCommand("3");
         jbtn15.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jbtn15ActionPerformed(evt);
@@ -505,6 +500,7 @@ public class Calc_Back extends javax.swing.JFrame {
         firstnum = Double.parseDouble(jtxtDisplay.getText());
        jtxtDisplay.setText("");
        operations = "/";
+       //waxaa develpgreeyay BBIT
     }//GEN-LAST:event_jbtn4ActionPerformed
 
     /**

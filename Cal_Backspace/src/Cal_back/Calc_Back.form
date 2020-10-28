@@ -255,7 +255,6 @@
           <Font name="Arial Black" size="12" style="1"/>
         </Property>
         <Property name="text" type="java.lang.String" value="4"/>
-        <Property name="actionCommand" type="java.lang.String" value="4"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbtn9ActionPerformed"/>
@@ -278,7 +277,6 @@
           <Font name="Arial Black" size="12" style="1"/>
         </Property>
         <Property name="text" type="java.lang.String" value="6"/>
-        <Property name="actionCommand" type="java.lang.String" value="6"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbtn11ActionPerformed"/>
@@ -301,7 +299,6 @@
           <Font name="Arial Black" size="12" style="1"/>
         </Property>
         <Property name="text" type="java.lang.String" value="1"/>
-        <Property name="actionCommand" type="java.lang.String" value="1"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbtn13ActionPerformed"/>
@@ -313,7 +310,6 @@
           <Font name="Arial Black" size="12" style="1"/>
         </Property>
         <Property name="text" type="java.lang.String" value="2"/>
-        <Property name="actionCommand" type="java.lang.String" value="2"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbtn14ActionPerformed"/>
@@ -325,7 +321,6 @@
           <Font name="Arial Black" size="12" style="1"/>
         </Property>
         <Property name="text" type="java.lang.String" value="3"/>
-        <Property name="actionCommand" type="java.lang.String" value="3"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jbtn15ActionPerformed"/>
